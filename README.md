@@ -1,10 +1,10 @@
 # You found me 👋
 
-I'm Pelumi Adetoye, a frontend engineer who helps teams turn complex user flows into simple, accessible interfaces. I build Next.js and React products people use every day, from payments to real-time chat to admin tools.
+I’m Pelumi Adetoye, a frontend engineer who turns complex user flows into simple, accessible interfaces. I care about clean, reusable code and products that feel effortless to use.
 
 ## What I Do
 
-- **Web Development**: I build Next.js and React products with TypeScript and Tailwind CSS: payment integrations, real-time features, role-based admin panels and reusable component libraries.
+- **Web Development**: I build web apps with Next.js, from design systems and shared component libraries to testing and documentation.
 - **Design to Code**: I turn Figma designs into accessible, responsive, well-tested components, documented in Storybook.
 - **Team Craft**: I care about code quality, so I do code reviews, pair programming and unit tests with React Testing Library.
 
@@ -13,7 +13,7 @@ I'm Pelumi Adetoye, a frontend engineer who helps teams turn complex user flows 
 - 🚀 Rebuilding the Next.js client app and building role-based admin features at [ColloAfrica](https://colloafrica.com)
 - 🔭 Working on tenantly as a personal project
 - 🌱 Learning to use AI more in my workflow
-- 💬 Ask me about Next.js, React, TypeScript, Storybook and turning Figma designs into components
+- 💬 Ask me about Next.js, TypeScript, Storybook and turning Figma designs into components
 
 ## What I Work With
 
