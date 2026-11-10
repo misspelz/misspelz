@@ -6,20 +6,20 @@ I'm Pelumi Adetoye, a frontend engineer who helps teams turn complex user flows 
 
 - **Web Development**: I build web apps with Next.js, from design systems and shared component libraries to testing and documentation.
 - **Design to Code**: I turn Figma designs into accessible, responsive, well-tested components, documented in Storybook.
-- **Team Craft**: I care about code quality, so I do code reviews, pair programming and unit tests with React Testing Library.
+- **Team Craft**: I care about code quality, so I do code reviews, pair programming, and unit tests with React Testing Library.
+- - **Teaching**: I teach beginners frontend development, from the basics to building real projects.
 
 ## Currently
 
 - 🚀 Rebuilding the Next.js client app and building role-based admin features at [ColloAfrica](https://colloafrica.com)
 - 🔭 Working on tenantly as a personal project
 - 🌱 Learning to use AI more in my workflow
-- 💬 Ask me about Next.js, TypeScript, Storybook and turning Figma designs into components
 
 ## What I Work With
 
-- **Build:** TypeScript, JavaScript, React, Next.js, Tailwind CSS, Ant Design
+- **Build:** TypeScript, React, Next.js, Tailwind CSS, UI component libraries
 - **State and data:** Redux Toolkit, React Query, Zustand, REST APIs, WebSockets
-- **Test and tools:** React Testing Library, Storybook, Git, GitHub, Figma
+- **Test and tools:** React Testing Library, Storybook, Git, GitHub, Figma, Git, Postman, Swagger
 
 ## Where I've Shipped
 
