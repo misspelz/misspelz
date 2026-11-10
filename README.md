@@ -1,4 +1,4 @@
-# You found me! 👋
+# You found me 👋
 
 I'm Pelumi Adetoye, a frontend engineer who helps teams turn complex user flows into simple, accessible interfaces. I build Next.js and React products people use every day, from payments to real-time chat to admin tools.
 
