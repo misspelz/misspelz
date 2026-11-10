@@ -1,6 +1,6 @@
 # You found me 👋
 
-I’m Pelumi Adetoye, a frontend engineer who turns complex user flows into simple, accessible interfaces. I care about clean, reusable code and products that feel effortless to use.
+I'm Pelumi Adetoye, a frontend engineer who helps teams turn complex user flows into simple, accessible interfaces. I build products people use every day with a focus on clean, reusable code and smooth user experiences.
 
 ## What I Do
 
