@@ -12,6 +12,7 @@ I'm Pelumi Adetoye, a frontend engineer who helps teams turn complex user flows 
 ## Currently
 
 - 🚀 Rebuilding the Next.js client app and building role-based admin features at [ColloAfrica](https://colloafrica.com)
+- 🛠️ Building at [ictZoid](https://ictzoid.com/)
 - 🔭 Working on tenantly as a personal project
 - 🌱 Learning to use AI more in my workflow
 
