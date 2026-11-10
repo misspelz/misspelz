@@ -7,7 +7,7 @@ I'm Pelumi Adetoye, a frontend engineer who helps teams turn complex user flows 
 - **Web Development**: I build web apps with Next.js, from design systems and shared component libraries to testing and documentation.
 - **Design to Code**: I turn Figma designs into accessible, responsive, well-tested components, documented in Storybook.
 - **Team Craft**: I care about code quality, so I do code reviews, pair programming, and unit tests with React Testing Library.
-- - **Teaching**: I teach beginners frontend development, from the basics to building real projects.
+- **Teaching**: I teach beginners frontend development, from the basics to building real projects.
 
 ## Currently
 
