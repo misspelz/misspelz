@@ -13,7 +13,7 @@ I'm Pelumi Adetoye, a frontend engineer who helps teams turn complex user flows 
 
 - 🚀 Rebuilding the Next.js client app and building role-based admin features at [ColloAfrica](https://colloafrica.com)
 - 🛠️ Building and training at [ictZoid](https://ictzoid.com/)
-- 🔭 Working on tenantly as a personal project
+- 🔭 Working on [tenantly](https://github.com/misspelz/tenantly) as a personal project
 - 🌱 Learning to use AI more in my workflow
 
 ## What I Work With
